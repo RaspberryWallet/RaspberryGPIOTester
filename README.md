@@ -1,3 +1,5 @@
+<img src="docs/logo.png" width="200" align="right">
+
 # RaspberryGPIOTester :traffic_light:
 
 Console application for testing state of GPIO Pins on Raspberry platform using Pi4J library.
